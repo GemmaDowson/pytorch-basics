@@ -1,0 +1,3 @@
+# copy model parameter
+model1 = Model()
+model2 = copy.deepcopy(model1)
